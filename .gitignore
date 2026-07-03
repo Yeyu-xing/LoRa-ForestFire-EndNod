@@ -23,3 +23,7 @@ Release/
 # Conversation exports
 history_*.md
 
+# Reference projects (not part of this codebase)
+ZiLiao/LoRaWAN_End_Node_v1.2*/
+ZiLiao/PING_PONG_V1.2-TCXO/
+
