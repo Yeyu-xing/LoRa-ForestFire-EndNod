@@ -6,7 +6,7 @@
 
 终端节点是"基于 LoRa 的森林火灾监测系统"的组成部分之一，负责**传感器数据采集、火灾预警判定、GNSS 定位**和**LoRa 组网通信**。
 
-* [网关/中继节点代码](https://github.com/your-account/lora-forestfire-gateway)（待上传）
+* [网关/中继节点代码](https://github.com/Yeyu-xing/LoRa-ForestFire-Gateway)
 * [通信协议规范](ZiLiao/LoRa私有协议与相关信息_修订版.md)
 * [软件设计说明书](ZiLiao/终端节点软件设计说明书.md)
 
